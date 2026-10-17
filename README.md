@@ -1,8 +1,7 @@
-## Hi there 👋
 
-# Hi 👋, I'm [Rashami Abhyankar]
+# Hi 👋, I'm Rashami Abhyankar
 
-### [Fullstack Developer]
+### Fullstack Developer
 
 * **Backend:** C#/.NET (primary), Node.js (alternative)
 * **Front-end:** React / Angular (primary)
@@ -25,4 +24,4 @@
 
 ### Profile Badges & Stats
 [![Profile views](https://komarev.com/ghpvc/?username=rashamiabhyankar12&color=blue)](https://github.com/rashamiabhyankar12)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://youtube.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)]([https://youtube.com](https://www.youtube.com/@rsa5497))
