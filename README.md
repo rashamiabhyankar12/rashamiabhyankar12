@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**rashamiabhyankar12/rashamiabhyankar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm [Rashami Abhyankar]
 
-Here are some ideas to get you started:
+### [Fullstack Developer]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Backend:** C#/.NET (primary), Node.js (alternative)
+* **Front-end:** React / Angular (primary)
+* **Database**
+  * **SQL:** SQL Server, MySQL
+  * **NoSQL:** MongoDB
+* **Operating System:** Windows 
+* I am pragmatic about languages and databases.
+* I contribute to the developer community through blog posts and apps.
+* I also have a strong interest in software engineering and cloud platforms.
+
+---
+
+## My accounts
+
+* **GitHub:** [rashamiabhyankar12](https://github.com/rashamiabhyankar12)
+* **LinkedIn:** ([https://linkedin.com/in/rashami-abhyankar-9298a02b1](https://www.linkedin.com/in/rashami-abhyankar-9298a02b1))
+
+---
+
+### Profile Badges & Stats
+[![Profile views](https://komarev.com/ghpvc/?username=rashamiabhyankar12&color=blue)](https://github.com/rashamiabhyankar12)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://youtube.com)
