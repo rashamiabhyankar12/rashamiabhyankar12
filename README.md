@@ -24,4 +24,4 @@
 
 ### Profile Badges & Stats
 [![Profile views](https://komarev.com/ghpvc/?username=rashamiabhyankar12&color=blue)](https://github.com/rashamiabhyankar12)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)]([https://youtube.com](https://www.youtube.com/@rsa5497))
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://www.youtube.com/@rsa5497)
