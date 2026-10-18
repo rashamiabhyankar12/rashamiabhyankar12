@@ -14,7 +14,7 @@
 * I also have a strong interest in software engineering and cloud platforms.
 ## 🎨 Design Work
 Check out my UI/UX mockups here:  
-[View Figma Designs]([https://www.figma.com/file/your-link-id](https://www.figma.com/@rashami))
+[View Figma Designs](https://www.figma.com/@rashami)
 ---
 
 ## My accounts
